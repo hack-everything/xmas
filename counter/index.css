@@ -1,0 +1,27 @@
+body, html {
+    height: 100%;
+}
+
+body {
+    background-image: url("https://49.media.tumblr.com/d4bca082c25643fcba8cb82bdf3993b6/tumblr_nmeby5CZyn1rzzn4po1_500.gif");
+    background-size: auto 100%;
+    background-position: left top;
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    vertical-align: center;
+    horiz-align: center;
+    color: #FFF;
+    font-family: 'Libre Baskerville', serif;
+    font-style: italic;
+    margin-top: 100px;
+    font-size: 4rem;
+}
